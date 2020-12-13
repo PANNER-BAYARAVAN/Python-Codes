@@ -1,0 +1,4 @@
+{"people": 
+[{"name": "John", "website": "aa.com", "from": "selangor"}
+, {"name": "Ali", "website": "bb.com", "from": "kedah"}, 
+{"name": "Tim", "website": "cc.com", "from": "perlis"}]}
