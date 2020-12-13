@@ -1,0 +1,5 @@
+https://build-system.fman.io/pyqt5-tutorial
+
+https://python-forum.io/Thread-PyQt-how-to-install-pyqt5-for-python-3-5-2-64bit
+
+https://www.reddit.com/r/learnpython/comments/5qcrdh/qt_designer_convert_ui_to_py_cant_find_pyuic5bat/
