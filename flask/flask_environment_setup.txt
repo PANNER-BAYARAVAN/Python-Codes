@@ -1,0 +1,30 @@
+Step 1
+cd C:\Users\user\AppData\Local\Programs\Python
+\Python36-32
+
+cd Scripts
+
+pip install virtualenv
+
+Step 2
+
+mkdir newproj
+cd newproj
+cd ..
+virtualenv venv
+
+venv\scripts\activate
+
+deactivate
+
+Step 4
+
+pip install Flask twilio
+
+copy Hello.py to venv
+
+cd C:\Users\user\AppData\Local\Programs\Python
+\Python36-32
+
+python C:\Users\user\AppData\Local\Programs
+\Python\Python36-32\Scripts\venv\Hello.py
